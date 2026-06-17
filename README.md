@@ -52,7 +52,7 @@ pip install -r requirements.txt
 ## Run the project
 
 ```bash
-python main.py
+python3 GoldenEagle.py
 ```
 
 ## Read documentation
