@@ -1,5 +1,4 @@
-![My Image](https://share.icloud.com/photos/09fMbU6C_nAZu30hW1APSpqqQ)
-
+![Golden Eagle](images/eagle-gold.png)
 # GOLDEN-EAGLE-v1-tools
 
 Educational project.
