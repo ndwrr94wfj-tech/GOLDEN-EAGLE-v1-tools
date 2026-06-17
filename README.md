@@ -1,5 +1,4 @@
-<img src="images/eagle-gold.png" width="700">
-
+![image](./eagle.png)
 # GOLDEN-EAGLE-v1-tools
 
 Educational project.
