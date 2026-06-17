@@ -1,5 +1,4 @@
-![Golden Eagle](images/eagle-gold.png)
-# GOLDEN-EAGLE-v1-tools
+<img src="images/eagle-gold.png" width="700"># GOLDEN-EAGLE-v1-tools
 
 Educational project.
 
