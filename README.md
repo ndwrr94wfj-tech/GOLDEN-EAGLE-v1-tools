@@ -1,6 +1,3 @@
-my-repo
-├── README.md
-├── eagle.png
 
 # GOLDEN-EAGLE-v1-tools
 Educational project.
